@@ -10,13 +10,13 @@ authenticity of digital assets through advanced blockchain technology. With robu
 explore new and trending NFTs. Additionally, it supports creator royalties, allowing original creators to earn from secondary sales, fostering a thriving
 community of artists and collectors.
 
-#Goal
+# Goal
 At APTOSPACE, our goal is to revolutionize the digital asset space by providing a secure, user-friendly, and innovative platform for creators and
 collectors on the APTOS blockchain. We aim to empower artists by enabling them to mint and sell their unique NFTs, ensure the authenticity and
 ownership of digital assets, and create a vibrant community where users can discover, trade, and collect exclusive NFTs. Through our commitment to
 supporting creator royalties and leveraging cutting-edge blockchain technology, we strive to foster a dynamic and sustainable NFT ecosystem.
 
-#Target Adience
+# Target Adience
 - Digital Artists: Creators looking to mint, showcase, and sell their unique digital artworks as NFTs.
 - Collectors: Enthusiasts and investors interested in purchasing, trading, and collecting exclusive digital assets.
 - Musicians: Artists seeking a platform to release and monetize their music through NFTs.
