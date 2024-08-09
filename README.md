@@ -2,6 +2,7 @@
 APTOSPACE is a premier NFT marketplace on the APTOS blockchain, designed for buying, selling, and trading a diverse range of digital assets, including art, music, and collectibles.
 - PDF: https://drive.google.com/file/d/1uPJN1QVY3WO_0p7Qu1jT0PCeUt_dJvDj/view?usp=sharing
 - Behance: https://www.behance.net/gallery/205079377/NFT-Marketplace-Website
+- Youtube: https://www.youtube.com/watch?v=Bgxbe9sg7x0
 
 ![map-01](https://github.com/user-attachments/assets/b316240c-0e11-424d-ad91-6d7bddeb4298)
 
